@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|c:\\users\\student\\documents\\12j lili\\foodhubproject2\\foodhubproject\\foodhubproject2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|solutionrelative:foodhubproject2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|c:\\users\\student\\documents\\12j lili\\foodhubproject2\\foodhubproject\\foodhubproject2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|solutionrelative:foodhubproject2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|c:\\users\\student\\documents\\12j lili\\foodhubproject2\\foodhubproject\\foodhubproject2\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|solutionrelative:foodhubproject2\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|c:\\users\\student\\documents\\12j lili\\foodhubproject2\\foodhubproject\\foodhubproject2\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|solutionrelative:foodhubproject2\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|c:\\users\\student\\documents\\12j lili\\foodhubproject2\\foodhubproject\\foodhubproject2\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|solutionrelative:foodhubproject2\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|c:\\users\\student\\documents\\12j lili\\foodhubproject2\\foodhubproject\\foodhubproject2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|solutionrelative:foodhubproject2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|c:\\users\\student\\documents\\12j lili\\foodhubproject2\\foodhubproject\\foodhubproject2\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|solutionrelative:foodhubproject2\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|c:\\users\\student\\documents\\12j lili\\foodhubproject2\\foodhubproject\\foodhubproject2\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|solutionrelative:foodhubproject2\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|c:\\users\\student\\documents\\12j lili\\foodhubproject2\\foodhubproject\\foodhubproject2\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497DDB61-380D-47DD-98C0-6CEDBA98607A}|FoodHubProject2\\FoodHubProject2.csproj|solutionrelative:foodhubproject2\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FoodHubProject2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\User.cs",
+              "RelativeToolTip": "FoodHubProject2\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:56:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "FoodHubProject2\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Role.cs",
+              "RelativeToolTip": "FoodHubProject2\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:56:18.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "FoodHubProject2\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Review.cs",
+              "RelativeToolTip": "FoodHubProject2\\Models\\Review.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA9wBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:55:52.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "FoodHubProject2\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Restaurant.cs",
+              "RelativeToolTip": "FoodHubProject2\\Models\\Restaurant.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:55:22.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FoodHubProject2\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\OrderItem.cs",
+              "RelativeToolTip": "FoodHubProject2\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:54:59.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FoodHubProject2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Order.cs",
+              "RelativeToolTip": "FoodHubProject2\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:54:33.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "FoodHubProject2\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\MenuItem.cs",
+              "RelativeToolTip": "FoodHubProject2\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:54:12.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\MenuCategory.cs",
+              "RelativeDocumentMoniker": "FoodHubProject2\\Models\\MenuCategory.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\MenuCategory.cs",
+              "RelativeToolTip": "FoodHubProject2\\Models\\MenuCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:53:45.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "FoodHubProject2\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\12j lili\\FoodHubProject2\\FoodHubProject\\FoodHubProject2\\Models\\Address.cs",
+              "RelativeToolTip": "FoodHubProject2\\Models\\Address.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:52:52.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
