@@ -1,6 +1,8 @@
-﻿namespace FoodHubProject2.Models
+﻿using FoodHubProject2.Repositories;
+
+namespace FoodHubProject2.Models
 {
-    public class Role
+    public class Role : IEntity
     {
         public int Id { get; set; }
 
@@ -8,6 +10,7 @@
 
         public string? Description { get; set; }
 
-        public ICollection<User> Users { get; set; } = new List<User>();
+      public ICollection<User> Users { get; set; } = new List<User>();
+        IRepository<Role> roleRepository;
     }
 }

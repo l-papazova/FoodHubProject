@@ -1,6 +1,8 @@
-﻿namespace FoodHubProject2.Models
+﻿using FoodHubProject2.Repositories;
+
+namespace FoodHubProject2.Models
 {
-    public class Review
+    public class Review : IEntity
     {
         public int Id { get; set; }
 
@@ -21,5 +23,6 @@
         public Restaurant? Restaurant { get; set; }
 
         public Order? Order { get; set; }
+        IRepository<Review> reviewRepository;
     }
 }

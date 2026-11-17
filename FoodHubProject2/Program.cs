@@ -1,3 +1,6 @@
+using FoodHubProject2.Models;
+using FoodHubProject2.Repositories;
+using FoodHubProject2.Services;
 namespace FoodHubProject2
 {
     public class Program
@@ -8,9 +11,17 @@ namespace FoodHubProject2
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            // Repository registrations
 
+            builder.Services.AddSingleton(
+                typeof(IRepository<>),
+                typeof(InMemoryRepository<>));
             var app = builder.Build();
+            builder.Services.AddTransient<RestaurantService>();
 
+            builder.Services.AddTransient<OrderService>();
+
+            builder.Services.AddTransient<UserService>();
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
@@ -20,6 +31,7 @@ namespace FoodHubProject2
             }
 
             app.UseHttpsRedirection();
+            app.UseStaticFiles();
             app.UseRouting();
 
             app.UseAuthorization();

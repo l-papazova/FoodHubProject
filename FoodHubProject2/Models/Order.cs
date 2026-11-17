@@ -1,8 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc.ViewEngines;
+﻿using FoodHubProject2.Repositories;
+using Microsoft.AspNetCore.Mvc.ViewEngines;
 
 namespace FoodHubProject2.Models
 {
-    public class Order
+    public class Order : IEntity
     {
         public int Id { get; set; }
 
@@ -33,5 +34,6 @@ namespace FoodHubProject2.Models
         public ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 
         public ICollection<Review> Reviews { get; set; } = new List<Review>();
+        IRepository<Order> orderRepository;
     }
 }

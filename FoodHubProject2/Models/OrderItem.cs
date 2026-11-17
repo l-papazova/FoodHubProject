@@ -1,6 +1,8 @@
-﻿namespace FoodHubProject2.Models
+﻿using FoodHubProject2.Repositories;
+
+namespace FoodHubProject2.Models
 {
-    public class OrderItem
+    public class OrderItem : IEntity
     {
         public int Id { get; set; }
 
@@ -17,5 +19,6 @@
         public Order? Order { get; set; }
 
         public MenuItem? MenuItem { get; set; }
+        IRepository<OrderItem> orderitemRepository;
     }
 }
