@@ -1,6 +1,8 @@
 using FoodHubProject2.Models;
 using FoodHubProject2.Repositories;
 using FoodHubProject2.Services;
+using FoodHubProject2.Repositories;
+using FoodHubProject2.Services;
 namespace FoodHubProject2
 {
     public class Program
@@ -11,6 +13,15 @@ namespace FoodHubProject2
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            // Repository registration
+            builder.Services.AddSingleton(
+                typeof(IRepository<>),
+                typeof(InMemoryRepository<>));
+
+            // Business Services registration
+            builder.Services.AddTransient<RestaurantService>();
+            builder.Services.AddTransient<OrderService>();
+            builder.Services.AddTransient<UserService>();
             // Repository registrations
 
             builder.Services.AddSingleton(

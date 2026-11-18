@@ -1,0 +1,49 @@
+﻿@model FoodHubProject2.Models.Order
+
+@{
+    ViewData["Title"] = "Проследяване на поръчка";
+}
+
+<div class="container mt-4">
+
+    <h2>Проследяване на поръчка</h2>
+
+    <hr />
+
+    <div class="card shadow-sm">
+
+        <div class="card-body">
+
+            <h4>Поръчка № @Model.Id</h4>
+
+            <p>
+                <strong>Дата:</strong>
+                @Model.OrderDate
+            </p>
+
+            <p>
+                <strong>Статус:</strong>
+                @Model.Status
+            </p>
+
+            <p>
+                <strong>Обща сума:</strong>
+                @Model.TotalAmount лв.
+            </p>
+
+            <p>
+                <strong>Такса доставка:</strong>
+                @Model.DeliveryFee лв.
+            </p>
+
+        </div>
+
+    </div>
+
+    <a asp-controller="Order"
+       asp-action="Index"
+       class="btn btn-secondary mt-3">
+        Назад към поръчките
+    </a>
+
+</div>

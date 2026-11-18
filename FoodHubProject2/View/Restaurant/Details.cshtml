@@ -1,0 +1,44 @@
+﻿@model FoodHubProject2.Models.Restaurant
+
+@{
+    ViewData["Title"] = "Детайли за заведение";
+}
+
+<div class="container mt-4">
+
+    <h2>@Model.Name</h2>
+
+    <hr />
+
+    <p>
+        <strong>Описание:</strong>
+        @Model.Description
+    </p>
+
+    <p>
+        <strong>Телефон:</strong>
+        @Model.PhoneNumber
+    </p>
+
+    <p>
+        <strong>Имейл:</strong>
+        @Model.Email
+    </p>
+
+    <p>
+        <strong>Такса доставка:</strong>
+        @Model.DeliveryFee лв.
+    </p>
+
+    <p>
+        <strong>Минимална поръчка:</strong>
+        @Model.MinimumOrderAmount лв.
+    </p>
+
+    <a asp-controller="Restaurant"
+       asp-action="Index"
+       class="btn btn-secondary">
+        Назад към заведенията
+    </a>
+
+</div>

@@ -9,13 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FoodHubProject2
 build_property.RootNamespace = FoodHubProject2
-build_property.ProjectDir = C:\Users\milas\Documents\FoodHubProject\FoodHubProject2\
+build_property.ProjectDir = C:\Users\Student\MiraProgramira\FoodHubProject\FoodHubProject2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\milas\Documents\FoodHubProject\FoodHubProject2
+build_property.MSBuildProjectDirectory = C:\Users\Student\MiraProgramira\FoodHubProject\FoodHubProject2
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Student/MiraProgramira/FoodHubProject/FoodHubProject2/View/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xPcmRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/MiraProgramira/FoodHubProject/FoodHubProject2/View/Order/Track.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xPcmRlclxUcmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/MiraProgramira/FoodHubProject/FoodHubProject2/View/Restaurant/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xSZXN0YXVyYW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Student/MiraProgramira/FoodHubProject/FoodHubProject2/View/Restaurant/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xSZXN0YXVyYW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

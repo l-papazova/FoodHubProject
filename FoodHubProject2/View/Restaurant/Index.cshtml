@@ -1,0 +1,55 @@
+﻿@model IEnumerable<FoodHubProject2.Models.Restaurant>
+
+@{
+    ViewData["Title"] = "Заведения";
+}
+
+<div class="container mt-4">
+
+    <h2>Заведения</h2>
+
+    <p>Избери заведение и поръчай любимата си храна!</p>
+
+    <hr />
+
+    <div class="row">
+
+@foreach (var restaurant in Model)
+{
+            <div class="col-md-4 mb-4">
+
+                <div class="card shadow-sm h-100">
+
+                    <div class="card-body">
+
+                        <h4 class="card-title">
+                            @restaurant.Name
+                        </h4>
+
+                        <p class="card-text">
+                            @restaurant.Description
+                        </p>
+
+                        <p>
+                            Такса доставка:
+                            @restaurant.DeliveryFee лв.
+                        </p>
+
+                        <p>
+                            Минимална поръчка:
+                            @restaurant.MinimumOrderAmount лв.
+                        </p>
+
+                        <a asp-controller="Restaurant"
+                           asp-action="Details"
+                           asp-route-id="@restaurant.Id"
+                           class="btn btn-primary">
+                            Разгледай менюто
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+}
